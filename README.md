@@ -1,4 +1,4 @@
-# Programming Gym
+# Gym
 
 ## LeetCode
 
